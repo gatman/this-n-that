@@ -1,0 +1,4 @@
+eazybi-jira-8.0.2.jar 46583 80389
+confluence-sso-3.3.5.jar 49624 11967
+jira-sso-2.2.16.jar 48493 21346
+jetplugin-2.1.8.jar 27934  1154
